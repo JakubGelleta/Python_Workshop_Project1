@@ -1,0 +1,13 @@
+To run 'Guess The Number' game you need:
+
+    !=== python version recomended: Python 3.7 or higher ===!
+
+1. Run CMD on Windows/ Terminal on Linux systems
+
+2.1 ==== Linux ====
+    Type: python(ver) X:/path/where/file/exists/main.py
+
+2.2 ==== Windows ====
+    Type: X:/path/where/file/exists/main.py
+
+3. Enjoy !
